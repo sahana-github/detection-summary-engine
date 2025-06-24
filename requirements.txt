@@ -1,0 +1,4 @@
+ultralytics==8.1.41
+opencv-python
+matplotlib
+pandas
